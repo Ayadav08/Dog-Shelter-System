@@ -1,5 +1,5 @@
 # Dog-Shelter-System
-// This is my college Third year Mini project which is based on html.
+
 
 
 An animal shelter or pound is a place where stray, lost, abandoned or surrendered animals – mostly dogs and cats – are housed.
